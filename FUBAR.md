@@ -23,3 +23,16 @@ CAЯOL: hey people, I'am really excited to make all that changes! Here is a loop
                       /(#%&%%#,         .**/#%(#*,..  
 
                       
+                      HI
+
+
+
+
+
+
+
+                      HELLO
+
+
+
+            
