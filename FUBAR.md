@@ -1,3 +1,4 @@
+Carol-adding-new-feature
 CAЯOL: hey people, I'am really excited to make all that changes! Here is a loop for you: for (var i = 0; i < 10; i++) { if (i === 5) { i -= 1;}}
                                                                                                                                                                
           /##*#/***/*(%/(%%,                                                   
@@ -23,3 +24,7 @@ CAЯOL: hey people, I'am really excited to make all that changes! Here is a loop
                       /(#%&%%#,         .**/#%(#*,..  
 
                       
+=======
+
+This is what Bob & Carol did on Bob's computer when working on the first feature. Whahahaha.
+
